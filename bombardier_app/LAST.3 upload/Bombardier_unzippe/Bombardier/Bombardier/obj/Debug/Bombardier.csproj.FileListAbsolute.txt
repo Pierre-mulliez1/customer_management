@@ -1,0 +1,509 @@
+C:\Users\amrre\Desktop\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\amrre\Desktop\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\amrre\Desktop\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.Form1.resources
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\amrre\Desktop\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.Form1.resources
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.Cache
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.csprojResolveAssemblyReference.cache
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\l_savoi\Desktop\Bombardier-20191010T215008Z-001\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.Form1.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-13-19\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.Form1.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.csprojResolveAssemblyReference.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier 10-15-19\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.Invoices.resources
+C:\Users\l_savoi\Desktop\Bombardier 11-01-19 2.1\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Invoices.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\M_QUIRAP\Desktop\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Invoices.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-05-19 Mark\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Invoices.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\Alex\OneDrive\Documents\BTM 495\Bombardier SMS 11-05-19\Bombardier SMS 11-06-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.AddModify_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csprojResolveAssemblyReference.cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.AddModify_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Invoices.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.Cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-08-19 Alex\Bombardier SMS 11-08-19 Alex\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.AddModify_Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Invoices.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-09-2019 - 3.40pm _Pierre-20191114T210321Z-001\Bombardier SMS 11-09-2019 - 3.40pm _Pierre\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.AddModify_Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Invoices.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\A_UYN\Downloads\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.AddModify_Products.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Invoices.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\thisi\OneDrive\Documents\BTM 495\Bombardier SMS 11-14-2019 - Alex\Bombardier SMS 11-14-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.AddModify_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\Bombardier SMS 11-15-2019 - Alex\Bombardier SMS 11-15-2019 - Alex\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+D:\New folder\bombardier8\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.AddModify_Products.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+D:\New folder\bombardier8\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.AddModify_Products.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+D:\New folder\bombardier8\bbd9\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\null\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+D:\New folder\BBD10\bbd11\Bombardier\Bombardier\obj\Debug\Bombardier.Forms.Sub_Create_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Forms.Sub_Create_Sub.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\Pierre Mulliez\Documents\BTM\BTM481\BTM 495\Bombardier\last_import1\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Bombardier.exe.config
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Bombardier.exe
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Bombardier.pdb
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Google.Protobuf.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\MySql.Data.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Renci.SshNet.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Zstandard.Net.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\System.Buffers.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\System.Memory.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Google.Protobuf.xml
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\MySql.Data.xml
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\bin\Debug\Renci.SshNet.xml
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.csprojAssemblyReference.cache
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.exe.config
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Add_Products.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Customer.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Create_Sub.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Customers.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Invoice_History.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Login_Products.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.MainMenu.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Customer.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Products.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Modify_Sub.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Products.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Subscription.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Forms.Sub_Create_Sub.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.Properties.Resources.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.View_sales_order.resources
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.GenerateResource.cache
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CoreCompileInputs.cache
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.csproj.CopyComplete
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.exe
+C:\Users\Pierre Computer\Documents\C#\bombardier_app\LAST.3 upload\Bombardier_unzippe\Bombardier\Bombardier\obj\Debug\Bombardier.pdb
